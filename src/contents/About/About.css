@@ -2,7 +2,6 @@
 
 .background{
     background-color: #030303;
-    width: 100vw;
 }
 
 .navbar{
@@ -53,6 +52,7 @@
         display: grid;
         grid-template-columns: auto;
     }
+
     
     
 }

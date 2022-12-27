@@ -34,9 +34,9 @@ function About() {
             return (
               <div className="grid">
                 <div className="member-grid">
-                  <img data-aos="fade-left" src={member.image} />
-                  <p data-aos="fade-right">{member.social}</p>
-                  <p data-aos="fade-left">{member.name}</p>
+                  <img data-aos="fade-top" src={member.image} />
+                  <p data-aos="fade-top">{member.social}</p>
+                  <p data-aos="fade-top">{member.name}</p>
                 </div>
               </div>
             );
