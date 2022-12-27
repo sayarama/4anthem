@@ -1,36 +1,42 @@
 [
     {
-        "image" : "https://i.imgur.com/Te6TKAC.png",
+        "image" : "https://i.imgur.com/6vLqFY6.png",
         "social" : "@praameswarii",
         "name" : "(Queen as Vocalist)"
     },
 
     {
-        "image" : "https://i.imgur.com/kfmj2g1.jpg",
+        "image" : "https://i.imgur.com/yuCCegs.png",
+        "social" : "@shetya_rmd",
+        "name" : "(Agus as Vocalist)"
+    },
+
+    {
+        "image" : "https://i.imgur.com/DdIvRBr.png",
         "social" : "@randyrafael112",
         "name" : "(Randy as Pianist)"
     },
 
     {
-        "image" : "https://i.imgur.com/RUAy8VV.jpg",
+        "image" : "https://i.imgur.com/lKwNF13.png",
         "social" : "@ily.ashtas",
         "name" : "(Askal as Guitar Rhythm)"
     },
     
     {
-        "image" : "https://i.imgur.com/0jv7o8U.jpg",
+        "image" : "https://i.imgur.com/vqDhXNo.png",
         "social" : "@teddylemans",
         "name" : "(Teddy as Guitar Lead)"
     },
     
     {
-        "image" : "https://i.imgur.com/5zXP9ML.jpg",
+        "image" : "https://i.imgur.com/5JAD0yA.png",
         "social" : "@bayuu__aji",
         "name" : "(Bayu as Bassist)"
     },
 
     {
-        "image" : "https://i.imgur.com/6We5pi0.jpg",
+        "image" : "https://i.imgur.com/lq23y8K.png",
         "social" : "@iqbal.hhh_",
         "name" : "(Iqbal as Drummer)"
     }
